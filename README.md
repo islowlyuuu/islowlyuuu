@@ -5,11 +5,25 @@
 
 目前主要使用：
 
-`Python` / `FastAPI` / `Django REST Framework` / `Vue 3` / `React` / `Next.js` / `TypeScript` / `PostgreSQL` / `Docker`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 也在持续探索：
 
-`LLM Application` / `AI Agent` / `Prompt Engineering` / `OpenAI-compatible Provider` / `SSE` / `RAG` / `Workflow Automation`
+![LLM Application](https://img.shields.io/badge/LLM_Application-111827?style=flat-square)
+![AI Agent](https://img.shields.io/badge/AI_Agent-4F46E5?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
+![OpenAI-compatible](https://img.shields.io/badge/OpenAI--compatible-10A37F?style=flat-square&logo=openai&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-0F766E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-CA8A04?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2563EB?style=flat-square)
 
 ---
 
@@ -35,7 +49,14 @@
 
 ### AI & Tools
 
-`OpenAI API` · `DeepSeek` · `Kimi` · `Qwen` · `Claude Agent SDK` · `Prompt Engineering` · `pytest` · `Docker Compose`
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-10A37F?style=flat-square&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E40AF?style=flat-square)
+![Kimi](https://img.shields.io/badge/Kimi-6D28D9?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen-0F766E?style=flat-square)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97706?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -101,4 +122,3 @@
 
 - Email: `cikg0702@126.com`
 - GitHub: [github.com/islowlyuuu](https://github.com/islowlyuuu)
-
