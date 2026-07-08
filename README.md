@@ -109,12 +109,6 @@
 
 ---
 
-## GitHub 状态
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=islowlyuuu&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islowlyuuu&layout=compact&hide_border=true&theme=default" />
-</p>
 
 ---
 
