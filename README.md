@@ -1,116 +1,54 @@
-# Hi，我是islowly
+<div align="center">
 
-一个正在往 **AI 全栈开发** 方向持续深入的开发者。  
-我喜欢把技术落到具体业务里：从跨境电商 ERP、法律 Agent 工作台，到面向求职场景的 AI 简历优化工具，关注的不只是“能跑起来”，也包括数据口径、交互体验、边界条件和后续维护。
+<img src="https://avatars.githubusercontent.com/u/282787954?v=4" width="110" alt="islowly" />
 
-目前主要使用：
+<img src="https://readme-typing-svg.demolab.com?font=Kiwi+Maru&size=22&pause=1200&color=8895AD&center=true&vCenter=true&width=520&lines=%E4%BD%95%E3%82%92%E6%B1%82%E3%82%81%E3%80%80%E4%BD%95%E3%82%92%E6%94%BE%E3%81%99" alt="何を求め　何を放す" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-也在持续探索：
-
-![LLM Application](https://img.shields.io/badge/LLM_Application-111827?style=flat-square)
-![AI Agent](https://img.shields.io/badge/AI_Agent-4F46E5?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
-![OpenAI-compatible](https://img.shields.io/badge/OpenAI--compatible-10A37F?style=flat-square&logo=openai&logoColor=white)
-![SSE](https://img.shields.io/badge/SSE-0F766E?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-CA8A04?style=flat-square)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2563EB?style=flat-square)
+</div>
 
 ---
 
-## 我关注的方向
+## 🌸 はじめまして
 
-- **AI 应用工程化**：让模型能力真正接入产品流程，而不是停留在 Demo。
-- **业务系统开发**：ERP、后台管理、数据分析、导入导出、权限控制、复杂筛选。
-- **Agent 工具调用**：工具注册、权限门控、上下文组织、流式输出和可观测性。
-- **开发效率工具**：用 AI 辅助阅读代码、梳理需求、生成测试、优化表达。
-- **长期可维护性**：清晰的数据结构、稳定的接口边界、可复现的问题定位方式。
+你好，我是 **islowly**。
 
----
+追番列表短得有点丢人，只有两部，还都是 **Fate/stay night [UBW]**。
 
-## 技术栈
-
-### Backend
-
-![Backend](https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,docker,git)
-
-### Frontend
-
-![Frontend](https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,tailwind,html,css)
-
-### AI & Tools
-
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-10A37F?style=flat-square&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-1E40AF?style=flat-square)
-![Kimi](https://img.shields.io/badge/Kimi-6D28D9?style=flat-square)
-![Qwen](https://img.shields.io/badge/Qwen-0F766E?style=flat-square)
-![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97706?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+这个页面，就当一个普通人随手写的便签吧。
 
 ---
 
-## 近期项目
+## 📺 在看什么
 
-### AI Boss 投递助手
+- **Fate/stay night [UBW]** —— 追番列表上的全部内容，两季。顺手存的剪辑，也还是 Fate。
+- **哄睡歌单** —— 《团子大家族》《你的名字》《美丽之物》，还有口琴版的《世末歌者》。
+- **《弥留之国的爱丽丝》** —— 三季解说，好看。
+- **《大明王朝1566》** —— 连解说合集都收着。
+- **Mili《world.execute(me)》** —— 刷到一支 4K 同人 MV，然后安静地收藏了，我要给大肥鱼完整的一生。
 
-面向 Boss 直聘投递场景的 AI 简历优化工具。  
-它不是生成一封很正式的求职信，而是帮助用户更快完成三件事：看懂岗位、改好简历、发出自然的第一句沟通。
-
-- 使用 `Next.js`、`React`、`TypeScript`、`Tailwind CSS` 构建求职工作台。
-- 基于 `FastAPI`、`SQLModel`、`SQLite` 实现分析记录、文件解析、方案保存和导出接口。
-- 支持 PDF/DOCX 简历上传、JD 分析、匹配评分、ATS 关键词提取和经历 bullet 改写。
-- 设计 `OpenAI-compatible Provider` 抽象，支持 `OpenAI`、`DeepSeek`、`Kimi`、`Qwen` 等模型配置。
-- 在 API Key 缺失或模型请求失败时自动降级到本地关键词分析器，方便演示和离线测试。
-
-### LexAgent AI 法律工作台
-
-一个围绕法律案件材料处理的 AI Agent 工作台。  
-我更关注其中的 Agent 运行链路：用户消息、工具注册、权限门控、LLM 推理、SSE 流式输出，以及案件级数据隔离。
-
-- 新增案件材料统计工具，按 PDF、图片、音视频、文档等类型汇总材料状态。
-- 优化工具调用事件的中文展示，避免前端直接暴露技术标识符。
-- 调整系统 Prompt 结构，将角色、合规要求、技能和工具规则拆分得更清晰。
-- 为权限门控补充测试，覆盖跨案件访问、工具白名单和 case_id 解析等场景。
-
-### 跨境电商 ERP 系统
-
-参与过真实业务 ERP 的前后端开发，覆盖订单、外采、供应商、物流费用、标签费、利润分析和报表导出等链路。
-
-- 完善物流费、标签费、物料费、促销折扣、退款率等经营字段的导入、展示和导出。
-- 支持利润分析 Excel 字段自选、选中货号导出、海关/规格字段扩展。
-- 修复多平台订单时间、退款率、SKU/MSKU、运费分摊等数据口径问题。
-- 补充供应商退货率、店铺状态导出、店铺被封时间等分析维度。
+<sub>番看得不多，但每一部都记得住。</sub>
 
 ---
 
-## 我的一些想法
+## 🧸 つくったもの｜做过的小东西
 
-我觉得 AI 对开发者最大的价值，不只是“帮我写代码”，而是让一个人能更快地理解陌生系统、拆解复杂问题，并把想法验证出来。
+- **[StudyOS](https://github.com/islowlyuuu/studyos)** —— 把学习资料丢进去，就能对着它提问、出题、记错题。
+- **[Agent Console](https://github.com/islowlyuuu/agent-console)** —— 一个能看见 AI「正在用哪个工具」的小控制台。
+- **[AI 简历助手](https://github.com/islowlyuuu/ai-resume-job-matcher)** —— 对着岗位要求改简历的小工具。
 
-所以我会更在意这些问题：
-
-- 这个功能是不是解决了真实场景里的问题？
-- 数据从哪里来，口径是否一致，异常情况怎么处理？
-- AI 生成的内容如何被约束、验证和回退？
-- 项目能不能让别人快速运行、理解和继续维护？
-
-比起追逐概念，我更希望自己能长期做出一些具体、有用、可迭代的东西。
+<sub>垃圾小项目><。</sub>
 
 ---
 
+## 📮 联系我
 
-## 联系我
+- 🐙 GitHub：[github.com/islowlyuuu](https://github.com/islowlyuuu)
+- 📧 Email：`cikg0702@126.com`
 
-- Email: `cikg0702@126.com`
-- GitHub: [github.com/islowlyuuu](https://github.com/islowlyuuu)
+<div align="center">
+
+**ゆっくりでいい、止まらなければ。**
+
+よろしくお願いします　m(_ _)m
+
+</div>
