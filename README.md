@@ -17,13 +17,13 @@
 
 <div align="center">
 
-<a href="https://music.163.com/song?id=189552">
-  <img src="https://cdn.jsdelivr.net/gh/islowlyuuu/islowlyuuu@main/assets/now-playing.svg?v=1" width="94%" alt="最近在听：孤单大街 — 周传雄，点击前往网易云音乐" />
+<a href="https://islowlyuuu.github.io/islowlyuuu/">
+  <img src="https://cdn.jsdelivr.net/gh/islowlyuuu/islowlyuuu@main/assets/now-playing.svg?v=2" width="94%" alt="最近在听：行香子 — 双笙（陈元汐），点击打开音乐页" />
 </a>
 
-<sub>♪ [孤单大街 — 周传雄](https://music.163.com/song?id=189552)　·　点一下，去网易云听</sub>
+<sub>♪ [行香子 — 双笙（陈元汐）](https://islowlyuuu.github.io/islowlyuuu/)　·　[网易云 ↗](https://music.163.com/song?id=411347340)</sub>
 
-<sub>想留在 GitHub：按住 <kbd>Ctrl</kbd> / <kbd>⌘</kbd> 点击，或使用鼠标中键</sub>
+<sub>点一下打开音乐页；想留在 GitHub：按住 <kbd>Ctrl</kbd> / <kbd>⌘</kbd> 点击，或使用鼠标中键</sub>
 
 </div>
 
