@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/islowlyuuu/islowlyuuu@main/assets/now-playing-xingxiangzi.svg" width="94%" alt="最近在听：行香子 — 双笙（陈元汐），点击打开音乐页" />
 </a>
 
-<sub>♪ [行香子 — 双笙（陈元汐）](https://islowlyuuu.github.io/islowlyuuu/)　·　[网易云 ↗](https://music.163.com/song?id=411347340)</sub>
+<sub>♪ [行香子 — 双笙（陈元汐）](https://islowlyuuu.github.io/islowlyuuu/)　·　免费收听　·　[网易云 ↗](https://music.163.com/song?id=411347340)</sub>
 
 <sub>点一下打开音乐页；想留在 GitHub：按住 <kbd>Ctrl</kbd> / <kbd>⌘</kbd> 点击，或使用鼠标中键</sub>
 
