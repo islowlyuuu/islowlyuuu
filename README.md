@@ -23,6 +23,8 @@
 
 <sub>♪ [孤单大街 — 周传雄](https://music.163.com/song?id=189552)　·　点一下，去网易云听</sub>
 
+<sub>想留在 GitHub：按住 <kbd>Ctrl</kbd> / <kbd>⌘</kbd> 点击，或使用鼠标中键</sub>
+
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/islowlyuuu/islowlyuuu@main/assets/divider.svg?v=1" width="260" alt="" />
