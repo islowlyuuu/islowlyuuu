@@ -19,6 +19,7 @@
 
 html {
   min-width: 300px;
+  overflow-x: hidden;
 }
 
 body {
@@ -580,6 +581,10 @@ a:focus-visible {
 
   .art {
     width: min(78vw, 300px);
+  }
+
+  .vinyl {
+    display: none;
   }
 
   .cover {
