@@ -1,4 +1,3 @@
-<img src="https://cdn.jsdelivr.net/gh/islowlyuuu/islowlyuuu@main/assets/header.svg?v=1" width="100%" alt="islowly · 何を求め、何を放す" />
 
 ##  はじめまして
 
