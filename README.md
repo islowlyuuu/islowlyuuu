@@ -1,29 +1,22 @@
-
-##  はじめまして
-
-<br />
-
 <div align="center">
 
+### はじめまして
+
 <a href="https://islowlyuuu.github.io/islowlyuuu/">
-  <img src="https://cdn.jsdelivr.net/gh/islowlyuuu/islowlyuuu@main/assets/now-playing-xingxiangzi.svg" width="94%" alt="最近在听：行香子 — 双笙（陈元汐），点击打开音乐页" />
+  <img src="assets/now-playing-xingxiangzi.svg" width="100%" alt="最近在听：行香子 — 双笙（陈元汐），点击打开音乐页" />
 </a>
 
+<sub>最近在听　<a href="https://music.163.com/song?id=411347340">行香子</a> — 双笙（陈元汐）　·　<a href="https://islowlyuuu.github.io/islowlyuuu/">音乐页 ↗</a></sub>
 
-</div>
+<img src="assets/divider.svg" width="220" alt="" />
 
-<img src="https://cdn.jsdelivr.net/gh/islowlyuuu/islowlyuuu@main/assets/divider.svg?v=1" width="260" alt="" />
-
-##  これから
-
+### これから
 
 **ゆっくりでいい、止まらなければ。**
 
+<sub>よろしくお願いします　m(_ _)m</sub>
+
 <br />
-
-<div align="center">
-
-よろしくお願いします　m(_ _)m
 
 <sub>© islowly</sub>
 
